@@ -10,6 +10,8 @@
    
    -I added a pure css animation using @keyframes. for the heading and sub heading.
    
+   - for font I used Google font here is the link to it :https://fonts.googleapis.com/css?family=Cabin|Herr+Von+Muellerhoff|Source+Sans+Pro:400,900&display=swap .
+   
    
    
    
